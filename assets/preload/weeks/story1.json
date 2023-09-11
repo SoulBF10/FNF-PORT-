@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"happy",
+			"rob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"block",
+			"rob",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "slak",
+	"difficulties": "hard, old",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "sem criatividade pra botar nome aqui kakakakak",
+	"weekName": "week mais legal do mundo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

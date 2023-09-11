@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"hardy",
+			"mad-rob",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "hardy",
+	"difficulties": "hardy, old",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "oooooomagaaaa",
+	"weekName": "minguado",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekrob",
+	"startUnlocked": false
+}
