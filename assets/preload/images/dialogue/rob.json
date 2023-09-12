@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-130,
+		-280
+	],
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "Rob_dialogue conversando",
+			"idle_name": ""
+		}
+	],
+	"image": "Rob_dialogue"
+}

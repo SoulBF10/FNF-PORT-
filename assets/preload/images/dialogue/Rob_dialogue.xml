@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rob_dialogue.png">
+<SubTexture name="Rob_dialogue Conversando0000" x="0" y="0" width="799" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Rob_dialogue Conversando0001" x="799" y="0" width="799" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>
