@@ -1,0 +1,4 @@
+Value 1 = texture
+Example: notesAssets/Majin_Notes
+
+Value 2 = change The StrumLine(true,false)

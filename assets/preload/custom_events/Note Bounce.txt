@@ -1,0 +1,8 @@
+Makes the strumlines bounce to the beat of the song.
+
+Value 1: Toggles the Bounce
+- Anything for on, leave blank for off.
+
+Value 2: Sets the bounce multiplier
+- Set to 1 for normal, higher for more bounce, 
+negative for downwards bounce.

@@ -1,0 +1,5 @@
+Displays text for the opponent character along with their
+icon. Putting no input will clear the lyrics.
+
+value1 = Text
+value2 = Displayed Icon (Put icons in mods/images/lyrics)

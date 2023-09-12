@@ -1,0 +1,4 @@
+Value 1: Qualquer coisa pra iniciar, End Pra terminar
+
+Value 2: Nada
+Script Por: Nickobelit
