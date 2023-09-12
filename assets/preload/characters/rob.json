@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ROB IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ROB LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ROB DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ROB UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ROB RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ROB",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry rob Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry rob Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry rob Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry rob Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry rob Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry rob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "angry-rob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}
