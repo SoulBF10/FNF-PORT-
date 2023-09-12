@@ -89,7 +89,7 @@ class CreditsState extends MusicBeatState
 			['lemu', 'lemuel', 'Ajudou eu acho', 'https://youtube.com/@LEMU_BF_SKR?si=RRLOM67oQMgqHIYQ', 'FFFFFF'],
 			['storm', 'storm', '-idk-', 'https://youtube.com/@StormWuz?si=FnBzvh50Pr4VrJiA', 'FFFFFF'],
 			['teruyaa', 'teruyaa', '-idk-', 'https://www.youtube.com/channel/UC7kXHXQNdwsm0JXjBMvKJ9w', 'FFFFFF'],
-			['fnf', 'fnf', '-idk-', 'https://www.youtube.com/channel/UC7kXHXQNdwsm0JXjBMvKJ9w', 'FFFFFF'],
+			['fnf', 'fnf', '-idk-', 'https://www.youtube.com/channel/UC7kXHXQNdwsm0JXjBMvKJ9w', 'FFFFFF']
 		];
 		
 		for(i in pisspoop){
