@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mad rob.png">
+<SubTexture name="Mad rob Idle0000" x="0" y="0" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Idle0001" x="711" y="0" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Idle0002" x="1422" y="0" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Idle0003" x="711" y="0" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Idle0004" x="0" y="0" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Down0000" x="2133" y="0" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Down0001" x="0" y="1237" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Up0000" x="711" y="1237" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Up0001" x="1422" y="1237" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Left0000" x="2133" y="1237" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Left0001" x="2844" y="0" width="711" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Right0000" x="3555" y="0" width="829" height="1237" frameX="-154" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Mad rob Right0001" x="0" y="2474" width="837" height="1237" frameX="-146" frameY="-30" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

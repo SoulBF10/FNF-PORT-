@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ROB.png">
+<SubTexture name="ROB IDLE0000" x="0" y="0" width="799" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB IDLE0001" x="799" y="0" width="799" height="1237" frameX="-272" frameY="-30" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB IDLE0002" x="0" y="1237" width="799" height="1225" frameX="-272" frameY="-42" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB IDLE0003" x="871" y="2462" width="811" height="1198" frameX="-272" frameY="-69" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB RIGHT0000" x="799" y="1237" width="809" height="1225" frameX="-272" frameY="-42" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB RIGHT0001" x="0" y="2462" width="871" height="1219" frameX="-277" frameY="-49" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB LEFT0000" x="1608" y="1237" width="711" height="1225" frameX="-272" frameY="-42" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB LEFT0001" x="2407" y="0" width="720" height="1226" frameX="-264" frameY="-42" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB UP0000" x="1598" y="0" width="809" height="1229" frameX="-272" frameY="-38" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB UP0001" x="3127" y="0" width="869" height="1225" frameX="-272" frameY="-42" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB DOWN0000" x="3127" y="1225" width="711" height="1225" frameX="-272" frameY="-42" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ROB DOWN0001" x="2319" y="1237" width="753" height="1209" frameX="-272" frameY="-58" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>
