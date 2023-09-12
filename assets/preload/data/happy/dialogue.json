@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "Rob",
+			"speed": 0.05,
+			"portrait": "Rob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ola!!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"sound": "Rob",
+			"speed": 0.05,
+			"portrait": "Rob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Voce e o cara daquele jogo de ritmo que era famoso pra caramba mais ficou esquecido"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Sbididop"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rap?"
+		},
+		{
+			"sound": "rob",
+			"speed": 0.05,
+			"portrait": "rob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "voce fala?"
+		},
+		{
+			"sound": "rob",
+			"speed": 0.05,
+			"portrait": "rob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "meh, mais de qualquer forma eu aceito!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		}
+	]
+}
