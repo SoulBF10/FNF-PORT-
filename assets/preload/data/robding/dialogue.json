@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh y'all complaining about bloodshed being too easy"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this song is gonna be bloodshed cool mode in the final release"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you happy now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "who are you talking to?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nobody"
+		}
+	]
+}
